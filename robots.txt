@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://jameslol417.github.io/sitemap-index.xml
+Host: https://jameslol417.github.io
